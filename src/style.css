@@ -1,0 +1,27 @@
+/*
+* File: style.css
+* Author: Ambrus Zsolt
+* Copyright: 2024, Ambrus Zsolt
+* Group: Szoft I-1-N
+* Date: 2024-02-06
+* Github: https://github.com/AmbrusZsolt/
+* Licenc: GNU GPL
+*/
+.table_001 {
+    background-color: blue;
+    border-collapse: collapse;
+    color: white;
+ }
+ .table_001 tr td {
+    border: 1px solid white;
+    padding: 10px;
+ }
+
+ .table {
+    border: 1px solid white;
+  }
+  .table th, .table td{
+    border: 1px solid white;
+    background-color: navy;
+    color: white;
+  }
